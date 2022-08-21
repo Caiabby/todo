@@ -2,8 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "note": "json-server",
+      "date": "0821",
+      "time": "10:30"
+    },
+    {
+      "id": 2,
+      "note": "json-server",
+      "date": "0822",
+      "time": "08:30"
     }
   ],
   "comments": [
