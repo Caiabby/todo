@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Caiabby/todo.github.io.git/static/css/main.a57be139.css",
-    "main.js": "/Caiabby/todo.github.io.git/static/js/main.eeb81af6.js",
-    "index.html": "/Caiabby/todo.github.io.git/index.html",
-    "main.a57be139.css.map": "/Caiabby/todo.github.io.git/static/css/main.a57be139.css.map",
-    "main.eeb81af6.js.map": "/Caiabby/todo.github.io.git/static/js/main.eeb81af6.js.map"
+    "main.css": "/todo.github.io/static/css/main.a57be139.css",
+    "main.js": "/todo.github.io/static/js/main.eeb81af6.js",
+    "index.html": "/todo.github.io/index.html",
+    "main.a57be139.css.map": "/todo.github.io/static/css/main.a57be139.css.map",
+    "main.eeb81af6.js.map": "/todo.github.io/static/js/main.eeb81af6.js.map"
   },
   "entrypoints": [
     "static/css/main.a57be139.css",
